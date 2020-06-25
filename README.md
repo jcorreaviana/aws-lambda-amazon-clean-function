@@ -1,0 +1,1 @@
+# Example of AWS Lambda Functions without use a AWS Scaffold
